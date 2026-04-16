@@ -52,3 +52,17 @@ Step 4: Voice tested across multiple tones and pacing options
 Step 5: Final selection integrated into video production  
 Step 6: Combined with AI avatar or edited footage in post-production  
 Step 7: Client review and iteration applied through prompt or script adjustments
+
+## Constraints and trade-offs
+
+- Voice realism vs speed of iteration  
+- Script precision required to avoid re-generation cycles  
+- Brand tone consistency across AI-generated outputs  
+- Managing client expectations around synthetic media limitations
+
+## What I would improve
+
+- More structured prompt templates for voice consistency across projects  
+- Better versioning system for voice outputs during iteration  
+- Clearer documentation of tone controls for non-technical stakeholders  
+- Faster alignment between script changes and regenerated outputs
