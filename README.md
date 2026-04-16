@@ -42,3 +42,13 @@ The value comes from:
 - Faster iteration cycles
 - Lower production overhead
 - Flexibility in tone and delivery
+
+## Real production workflow (example)
+
+Step 1: Client brief received (brand explainer / social video)  
+Step 2: Script developed with tone and audience in mind  
+Step 3: Voice generated using ElevenLabs  
+Step 4: Voice tested across multiple tones and pacing options  
+Step 5: Final selection integrated into video production  
+Step 6: Combined with AI avatar or edited footage in post-production  
+Step 7: Client review and iteration applied through prompt or script adjustments
